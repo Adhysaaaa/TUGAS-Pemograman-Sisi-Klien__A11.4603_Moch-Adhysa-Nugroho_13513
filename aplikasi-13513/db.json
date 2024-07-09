@@ -1,0 +1,221 @@
+{
+  "mobil": [
+    {
+      "id": "2b35",
+      "nama": "Veloz",
+      "pabrikan": "Toyota",
+      "tipe": "Manual",
+      "tahun": "2023",
+      "harga": "404000000",
+      "gambar": {},
+      "multipleGambar": [
+        "blob:http://localhost:3002/d9ac72df-3e22-44ed-8051-c55447229fb4"
+      ]
+    },
+    {
+      "id": "ef70",
+      "nama": "City",
+      "pabrikan": "Honda",
+      "tipe": "manual",
+      "tahun": "2004",
+      "harga": "80000000",
+      "gambar": {},
+      "multipleGambar": [
+        "blob:http://localhost:3003/3d1df60d-3228-48e7-b1cf-662862217280"
+      ]
+    },
+    {
+      "id": "2762",
+      "nama": "Yaris Cross",
+      "pabrikan": "Toyota",
+      "tipe": "Manual",
+      "tahun": "2024",
+      "harga": "504999999",
+      "gambar": {},
+      "multipleGambar": [
+        "blob:http://localhost:3003/07afbf72-c2d4-4552-89e1-1f07ebf85d56"
+      ]
+    },
+    {
+      "id": "a527",
+      "nama": "911 GT3 RS",
+      "pabrikan": "Porsche",
+      "tipe": "Sport",
+      "tahun": "2022",
+      "harga": "1000000000",
+      "gambar": {},
+      "multipleGambar": [
+        "blob:http://localhost:3003/56f024c8-97c0-447d-a161-ae2cf6961cbf"
+      ]
+    },
+    {
+      "id": "dd14",
+      "nama": "All New Veloz",
+      "pabrikan": "Toyota",
+      "tipe": "Manual",
+      "tahun": "2024",
+      "harga": "606000000",
+      "gambar": {},
+      "multipleGambar": [
+        "blob:http://localhost:3006/04121bc8-3c6a-4561-9543-7b323f971e21"
+      ]
+    },
+    {
+      "id": "c5a1",
+      "nama": "All New Veloz",
+      "pabrikan": "Toyota",
+      "tipe": "Manual Transmission",
+      "tahun": "2023",
+      "harga": "303000000",
+      "gambar": {},
+      "multipleGambar": [
+        "blob:http://localhost:3001/750ae32d-0aa2-435c-8c91-ee8ed19db748"
+      ]
+    },
+    {
+      "id": "33cd",
+      "nama": "City Vtec",
+      "pabrikan": "Honda",
+      "tipe": "Manual Transmission",
+      "tahun": "2022",
+      "harga": "80000000",
+      "gambar": {},
+      "multipleGambar": [
+        "blob:http://localhost:3001/415d038c-37a6-4cb4-9836-fc586d60202c"
+      ]
+    },
+    {
+      "id": "502b",
+      "nama": "City Skuy",
+      "pabrikan": "Honda",
+      "tipe": "Manual",
+      "tahun": "2005",
+      "harga": "90000000",
+      "gambar": {},
+      "multipleGambar": [
+        "blob:http://localhost:3001/5ee68502-c29d-4a79-9430-9d365e33e609"
+      ]
+    },
+    {
+      "id": "8539",
+      "nama": "ajajnjanjaakaknk",
+      "pabrikan": "nananmnam",
+      "tipe": "amkamkmakma",
+      "tahun": "2005040",
+      "harga": "90909090909",
+      "gambar": {},
+      "multipleGambar": [
+        "blob:http://localhost:3001/469f8060-333e-461a-97e0-706004061e0a"
+      ]
+    },
+    {
+      "id": "97d4",
+      "nama": "Ioniq 5",
+      "pabrikan": "Hyundai",
+      "tipe": "Listrik",
+      "tahun": "2022",
+      "harga": "1000000000000",
+      "gambar": {},
+      "multipleGambar": [
+        "blob:http://localhost:3000/3f2c5606-1e1f-4809-a770-62fe20166f01"
+      ]
+    },
+    {
+      "id": "a23e",
+      "nama": "ioniq",
+      "pabrikan": "Hyundai",
+      "tipe": "Listrik",
+      "tahun": "2023",
+      "harga": "90000000",
+      "gambar": {},
+      "multipleGambar": [
+        "blob:http://localhost:3000/08ed6c8b-20d9-41b7-996a-c99116434c8d",
+        "blob:http://localhost:3000/cede4d98-0df0-4bf1-a46f-e7b18237380a"
+      ]
+    },
+    {
+      "id": "4d55",
+      "nama": "All New Veloz",
+      "pabrikan": "Toyota",
+      "tipe": "Manual",
+      "tahun": "2023",
+      "harga": "303000000",
+      "gambar": {},
+      "multipleGambar": [
+        "blob:http://localhost:3000/0133ba3d-25b3-4aa9-af6b-1261a7be6c54"
+      ]
+    },
+    {
+      "id": "5dc0",
+      "nama": "City Vtec",
+      "pabrikan": "Honda",
+      "tipe": "Manual",
+      "tahun": "2004",
+      "harga": "80000000",
+      "gambar": {},
+      "multipleGambar": [
+        "blob:http://localhost:3000/cd6f9696-9e0e-46bc-84e0-56d259d85590"
+      ]
+    },
+    {
+      "id": "4963",
+      "nama": "911 GT 3 RS",
+      "pabrikan": "Porsche",
+      "tipe": "Sport Car",
+      "tahun": "2022",
+      "harga": "100000000000000",
+      "gambar": {},
+      "multipleGambar": [
+        "blob:http://localhost:3000/f6d50ea4-b8fd-40b9-82ae-3f094e967b1c"
+      ]
+    },
+    {
+      "id": "ce66",
+      "nama": "All New Veloz",
+      "pabrikan": "Toyota",
+      "tipe": "Manual",
+      "tahun": "2023",
+      "harga": "303000000",
+      "gambar": {},
+      "multipleGambar": [
+        "blob:http://localhost:3000/a1ab6406-9e1f-4ab6-9606-74397e623265"
+      ]
+    },
+    {
+      "id": "8b6e",
+      "nama": "All New Veloz",
+      "pabrikan": "Toyota",
+      "tipe": "Manual Transmission, Tipe G 1.5",
+      "tahun": "2023",
+      "harga": "303000000",
+      "gambar": {},
+      "multipleGambar": [
+        "blob:http://localhost:3000/13d0adcf-8fc1-4850-9a24-464d803d472c"
+      ]
+    },
+    {
+      "id": "b8b0",
+      "nama": "City Vtec",
+      "pabrikan": "Honda",
+      "tipe": "Manual Transmission",
+      "tahun": "2005",
+      "harga": "80000000",
+      "gambar": {},
+      "multipleGambar": [
+        "blob:http://localhost:3000/eed04a3a-a0e9-4352-a42b-ddd4f0006c98"
+      ]
+    },
+    {
+      "id": "682a",
+      "nama": "Yaris Cross GT",
+      "pabrikan": "Toyota",
+      "tipe": "Hybrid",
+      "tahun": "2024",
+      "harga": "700000000",
+      "gambar": {},
+      "multipleGambar": [
+        "blob:http://localhost:3000/549d75fc-7a03-4f7f-960b-ef78ba5ebfbb"
+      ]
+    }
+  ]
+}
